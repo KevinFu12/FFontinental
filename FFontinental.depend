@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713261435 source:d:\c\data structure\exercise dll\ffontinental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
