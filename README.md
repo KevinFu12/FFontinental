@@ -66,4 +66,4 @@ Welcome to **FFontinental**, a simulation of an office management system built i
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+Contributions are welcome!
